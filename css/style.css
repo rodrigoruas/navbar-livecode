@@ -1,0 +1,6 @@
+@import url("components/navbar.css");
+@import url("components/avatar.css");
+
+body {
+  background-color: rgb(220, 220, 220);
+}
